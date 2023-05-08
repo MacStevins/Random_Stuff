@@ -1,5 +1,7 @@
 # Schematics
-This folder contains all of the litematica schematic designs I've made
+This folder contains all of the litematica schematic designs I've made.
+
+These are freely to be used, with credit of course.
 
 # Table of Contents
  - <a href="#afk-cobblef-gen">AFK Cobble Gen</a>
