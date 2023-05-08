@@ -12,3 +12,4 @@ Randomly made this design for the original version of The Towers back in 1.16.4,
 
 ## The Towers
 A mob farm inspired by a lot of mob farms, blocks can be changed to any slabable or full block ones.
+The killing/player waiting chamber can be changed to whatever design you want, but this is the design I went with.
