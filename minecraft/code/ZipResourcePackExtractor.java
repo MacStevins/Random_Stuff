@@ -14,7 +14,7 @@ import java.time.format.DateTimeFormatter;
 import java.util.zip.ZipFile;
 
 @Mixin(ZipResourcePack.class)
-public class ZipResourcePackMixin {
+public class ZipResourcePackExtractor {
 
 	@ModifyVariable(method = "openFile", at = @At("STORE"))
 	private ZipFile getZipFile(ZipFile file) {
